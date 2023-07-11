@@ -8,5 +8,5 @@ function Child(): JSX.Element {
 
   return <div>{data}</div>;
 }
-2;
+
 export { Child };
