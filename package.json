@@ -13,7 +13,8 @@
     "react": "^18.2.0",
     "react-async": "^10.0.1",
     "react-dom": "^18.2.0",
-    "suspense": "^0.0.44"
+    "suspense": "^0.0.44",
+    "swr": "^2.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.14",
