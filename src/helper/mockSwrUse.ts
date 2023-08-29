@@ -5,8 +5,6 @@ const mockSwrUse = <T>(
     reason?: unknown;
   },
 ): T => {
-  // eslint-disable-next-line no-debugger
-  // debugger;
   if (promise.status === "pending") {
     throw promise;
   } else if (promise.status === "fulfilled") {
